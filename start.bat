@@ -7,7 +7,7 @@ cd "%USERPROFILE%\AppData\Local\Discord"
 Update.exe --processStart Discord.exe
 
 @echo off
-cd "C:\Program Files\Mozilla Firefox"
+cd "C:\Program Files\Firefox Developer Edition"
 start firefox.exe
 
 @echo off
